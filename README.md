@@ -1,3 +1,4 @@
+# IBAS (Inha Bigdata Analysis Society)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/InhaBas/Inhabas.com-api.svg)](https://GitHub.com/InhaBas/Inhabas.com-api/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/InhaBas/Inhabas.com-api.svg)](https://GitHub.com/InhaBas/Inhabas.com-api/issues/)
@@ -6,8 +7,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/InhaBas/Inhabas.com-api?style=social&label=Watch)](https://GitHub.com/InhaBas/Inhabas.com-api/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/InhaBas/Inhabas.com-api.svg?style=social&label=Fork)](https://GitHub.com/InhaBas/Inhabas.com-api/network/)
 [![GitHub stars](https://img.shields.io/github/stars/InhaBas/Inhabas.com-api?style=social&label=Star)](https://GitHub.com/InhaBas/Inhabas.com-api/stargazers/)
-
-# IBAS (Inha Bigdata Analysis Society)
 
 ![main logo of IBAS](docs/images/logo_purple.png)
 
